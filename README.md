@@ -6,15 +6,15 @@ The project analyzes **3,900 customer purchase records** to explore revenue, cus
 
 ---
 
-##  Dashboard Preview
+## Dashboard Preview
 
 ![Power BI Dashboard](images/Screenshot%202026-09-08%20223059.png)
 
-> 🔗 **Live Interactive Power BI Dashboard:** Coming soon
+> 🔗 **[View the Live Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2FlMmMzZGYtMjZlZS00NDUwLWI5OWUtNGZjZDNiMjcwYTU1IiwidCI6ImM3MzNiYzhmLWMwODYtNGFhYS05YmQ4LTZiZjZhMTRiYWJjMSJ9)**
 
 ---
 
-##  Project Objectives
+## Project Objectives
 
 This project answers business questions such as:
 
@@ -29,7 +29,7 @@ This project answers business questions such as:
 
 ---
 
-##  Tools & Technologies
+## Tools & Technologies
 
 ### Python
 - pandas
@@ -46,7 +46,7 @@ This project answers business questions such as:
 
 ---
 
-##  Project Workflow
+## Project Workflow
 
 ```text
 Raw CSV Dataset
@@ -68,7 +68,7 @@ Business Insights
 
 ---
 
-##  Python Data Preparation
+## Python Data Preparation
 
 Python was used to:
 
@@ -88,7 +88,7 @@ Python was used to:
 
 ---
 
-##  SQL Business Analysis
+## SQL Business Analysis
 
 SQL Server was used to answer **10 business questions** covering:
 
@@ -114,7 +114,7 @@ The analysis uses `SUM()`, `AVG()`, `COUNT()`, `CASE`, `WHERE`, `GROUP BY`, subq
 
 The interactive dashboard includes:
 
-- **3.9K** total customer purchase records
+- **3,900** customer purchase records
 - **$59.76** average spend per purchase
 - Approximately **$233K** total revenue
 - Subscriber vs non-subscriber share
@@ -128,7 +128,7 @@ The interactive dashboard includes:
 
 ---
 
-##  Key Insights
+## Key Insights
 
 - Total revenue is **$233,081**
 - Average purchase amount is **$59.76**
@@ -141,7 +141,7 @@ The interactive dashboard includes:
 
 ---
 
-##  Business Recommendations
+## Business Recommendations
 
 - Target frequent non-subscribers with clear subscription benefits
 - Protect loyal customers with retention campaigns and personalized offers
@@ -153,7 +153,7 @@ The interactive dashboard includes:
 
 ---
 
-##  Full Project Report
+## Full Project Report
 
 The full report explains the Python workflow, SQL analysis, Power BI dashboard, findings, and business recommendations in detail.
 
@@ -190,7 +190,7 @@ retail-customer-analytics/
 
 ---
 
-##  Future Improvements
+## Future Improvements
 
 Future versions could include:
 
@@ -203,7 +203,6 @@ Future versions could include:
 
 ---
 
-##  Author
+## Author
 
 **Talha Fatir**  
-Data Analytics Portfolio Project
